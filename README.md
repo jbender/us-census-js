@@ -1,5 +1,7 @@
 # [US-Census.JS](https://github.com/jbender/us-census-js-js)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jbender/us-census-js.svg)](https://greenkeeper.io/)
+
 [![NPM version](http://img.shields.io/npm/v/us-census.svg?style=flat-square)](https://www.npmjs.com/package/us-census)
 [![NPM downloads](http://img.shields.io/npm/dm/us-census.svg?style=flat-square)](https://www.npmjs.com/package/us-census)
 [![Build Status](http://img.shields.io/travis/jbender/us-census-js/master.svg?style=flat-square)](https://travis-ci.org/jbender/us-census-js)
